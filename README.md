@@ -9,7 +9,7 @@ A simple and clean sidebar design for web applications, featuring a dark-themed 
 - [Installation](#installation)
 
 ## Demo
-![Sidebar Demo](link-to-screenshot-or-demo.gif) 
+![Screenshot 2024-06-17 205612](https://github.com/Buczjc/Simple-Sidebar-Design/assets/119478207/8fd659e7-aaf7-4b2d-a16c-04a85f0daf14)
 
 ## Features
 - Dark-themed vertical navigation
