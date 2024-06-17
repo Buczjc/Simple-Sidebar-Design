@@ -20,7 +20,6 @@ A simple and clean sidebar design for web applications, featuring a dark-themed 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript (if applicable)
 
 ## Installation
 1. Clone the repository
