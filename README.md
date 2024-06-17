@@ -7,12 +7,9 @@ A simple and clean sidebar design for web applications, featuring a dark-themed 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
-![Sidebar Demo](link-to-screenshot-or-demo.gif)
+![Sidebar Demo](link-to-screenshot-or-demo.gif) 
 
 ## Features
 - Dark-themed vertical navigation
